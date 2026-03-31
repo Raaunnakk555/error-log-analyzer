@@ -1,5 +1,0 @@
-NullPointerException=Object is null. Initialize it before use.
-ArrayIndexOutOfBoundsException=Index exceeds array size.
-ArithmeticException=Division by zero is not allowed.
-NumberFormatException=Invalid number format.
-FileNotFoundException=File path is incorrect or file missing.
